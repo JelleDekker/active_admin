@@ -38,3 +38,13 @@ nl:
     blank_slate:
       content: "Er zijn geen %{resource_name} gevonden."
       link: "Maak aan"
+    comments:    
+      body: "Body"
+      author: "Auteur"
+      title: "Opmerking"
+      add: "Voeg opmerking toe"
+      resource: "Resource"
+      no_comments_yet: "Nog geen opmerkingen."
+      title_content: "Opmerkingen (%{count})"
+      errors:
+        empty_text: "Opmerking was niet opgeslagen omdat deze leeg was"
